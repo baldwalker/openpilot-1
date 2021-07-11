@@ -81,7 +81,7 @@ HKG Long control toggle. (radar + vision)
 
 Slow down for curves toggle. (Beta)
 
-LDWS tooggle under `Community` in `Settings` for cars with LDWS but not SCC.
+LDWS toggle under `Community` in `Settings` for cars with LDWS but not SCC.
 
 MAD mode toggle for no disengae on brake or gas.
 
