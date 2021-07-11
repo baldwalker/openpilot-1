@@ -79,7 +79,9 @@ HKG Long control toggle. (radar + vision)
 
   * Bring back my Lead Markers toggle for non HKG Longitudinal cars in `Community`. Not Recommended VERY MISSLEADING FOR STOCK LONGITUDINAL CARS!
 
-Slow down for curves toggle.
+Slow down for curves toggle. (Beta)
+
+LDWS tooggle under `Community` in `Settings` for cars with LDWS but not SCC.
 
 MAD mode toggle for no disengae on brake or gas.
 
