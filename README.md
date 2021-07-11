@@ -50,7 +50,7 @@ RJ45 black panda and comma power adapter
 
 Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_086
 
-Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/HKG_086_dev (Active development branch LOTS of changes made all the time. UNSTABLE)
+Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/086_dev (Active development branch LOTS of changes made all the time. UNSTABLE)
 
 ***0.8.5***
 
