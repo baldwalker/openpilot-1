@@ -56,8 +56,6 @@ Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/086_dev (
 
 Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_085
 
-Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/hkg_085_dev (Active development branch LOTS of changes made all the time. UNSTABLE)
-
 If you ran `git clone https://github.com/Circuit-Pro/openpilot.git` make sure too run `rm /data/params/d/DongleId` to reset your dongle ID.
 
 ***RetroPilot***
