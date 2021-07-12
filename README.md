@@ -90,7 +90,8 @@ Delete UI Screen Recordings button in `Settings` under `Community `.
 
 ***LDWS toggle under `Community` in `Settings` for cars with LDWS but not SCC.***
 
-***MAD mode toggle for no disengae on brake or gas.***
+***MAD mode toggle***
+  - for no disengae on brake or gas.
 
 ***Show Debug UI***
 
