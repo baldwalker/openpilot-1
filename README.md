@@ -76,12 +76,12 @@ Delete UI Screen Recordings button in `Settings` under `Community `.
 Toggles are in `Settings` under `Community`.
 
 Cluster Speed 
-   * Uses the speed of the gauge cluster instead of actual wheel speed (if applicable) or GPS speed.
+    * Uses the speed of the gauge cluster instead of actual wheel speed (if applicable) or GPS speed.
 
 HKG Long control toggle. (radar + vision) 
 
    * Bring back my Lead Markers toggle for non HKG Longitudinal cars in `Community`. Not Recommended VERY MISSLEADING FOR STOCK LONGITUDINAL CARS
-   * when Toggled on, replaces the default Hyundai / Kia / Genesis factory longitudinal control system (SCC) with the openpilot system. May be useful for systems that don’t currently HAVE SCC but can support SCC via openpilot when programmed to another car variant(same model) that has radar..
+    * when Toggled on, replaces the default Hyundai / Kia / Genesis factory longitudinal control system (SCC) with the openpilot system. May be useful for systems that don’t currently HAVE SCC but can support SCC via openpilot when programmed to another car variant(same model) that has radar..
 
 Slow down for curves toggle. (Beta)
      * allows openpilot to slow car when entering curves on HKG Long. 
@@ -92,11 +92,11 @@ MAD mode toggle for no disengae on brake or gas.
 
 Show Debug UI
 
-  *I feel like you should understand what “debugging” and a “UI” are before you can use openpilot
+   *I feel like you should understand what “debugging” and a “UI” are before you can use openpilot
 
 Use SMDPS Harness
 
-  *Use of MDPS Harness to enable openpilot steering down to 0 MPH
+   *Use of MDPS Harness to enable openpilot steering down to 0 MPH
 
 
 Stop Screen Capture on disengage toggle.
