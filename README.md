@@ -122,7 +122,10 @@ Delete UI Screen Recordings button in `Settings` under `Community `.
 
 ***Smooth SCC with SCC smoother.***
 
-Make sure to reboot with toggle changes.
+***Use by fusion with stock SCC***
+   If applicable stock SCC will control gas and OP will control braking, it will smooth out the late abrupt braking from stock SCC.
+
+***Make sure to reboot with toggle changes.***
 
 Then give it a spin.
 
