@@ -88,7 +88,8 @@ Delete UI Screen Recordings button in `Settings` under `Community `.
 
    - allows openpilot to slow car when entering curves on HKG Long. 
 
-***LDWS toggle under `Community` in `Settings` for cars with LDWS but not SCC.***
+***LDWS toggle***
+   - under `Community` in `Settings` for cars with LDWS but not SCC.
 
 ***MAD mode toggle***
   - for no disengae on brake or gas.
