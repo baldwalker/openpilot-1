@@ -17,31 +17,6 @@ This fork has full long control for all HKG and Harnessless for older 2015 & 201
 
 **Reach out to johnpr#5623 on discord too buy a radar harness. MDPS harnesses are available for sale with a 1 1/2 week lead time.**
 
-**MDPS/SMDPS** Refrence these guides to build one. 
-- https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf 
-- https://github.com/Circuit-Pro/openpilot/blob/main/Pinout%20For%20CommaPower%20to%20Micro64.pdf 
-- https://medium.com/@kyroapps/adding-support-for-lateral-control-below-51km-h-for-hyundai-vehicles-10be0b556371
-
-Kia Niro MDPS ECU - http://www.kniro.net/schematic_diagrams-1321.html
-
-MDPS Connectors
-
-Male
-- https://www.mouser.com/ProductDetail/aptiv/15420151/?qs=WTe5OP3w0Koiy%252bx6KqjpIQ%3D%3D&countrycode=CA&currencycode=CAD&bm-verify=AAQAAAAD_____xGvBoTAT_yusRfcDbPOvmmaN_N4VgvTUsLpnvbpGb1zClm2LRJZFYrTQaCWy30sxMrw5LMiUOXCn06a49I1B8zA96meyl7U7I8EteiPj05-qHB8w3slUdlaiAvam3Y96_Xsl81g3qPzp08LwevFanhLa8jvAmcmYyFsMkQVmB5o-bjjk2E3sWqFDi3jINO2kCMPiDZ2BYdawKzl7yPNrkc_dq8iwl-oyNoa242w_dFKI5z1ucS22Etf-_dT-L09e7XFLzVQ307lPqcZrR0mu1gqEY94MN4p9yj71EYVH8SrUJAFu9UOAa0l9ATl01niGRC6afmOr91rzh087B1Bj6RXGml62nkMWgBDkGsiWU7DRkPUjfVJZu00hioYwl-A758CMrxFB3GHEQm-V7oT8kdHI7i-9TH5oxRgrArVhcDlAGasgzhKrWwJ0CXP9okjrQbhlcFZeVPvfQW4RP3WJkHUJnUna-wRSzX2J4Fr7jJBRKDsu7oGqJNSIbsioIlbHsb5-B5Zoi_bLnA0
-
-Female 
-- https://www.mouser.com/ProductDetail/aptiv/15406142/?qs=xyz6lfZ1ktKtmezTNc3DLw%3D%3D&countrycode=CA&currencycode=CAD
-- https://www.mouser.com/ProductDetail/aptiv/15401440-l/?qs=NKHyz0HolODmWpNAvMSDSg%3D%3D&countrycode=CA&currencycode=CAD
-
-Black Panda
-- https://github.com/Circuit-Pro/openpilot/blob/main/648E3090-698D-4568-BCEE-E723442B3C00.jpeg
-
-RJ45 female connectors
-- https://www.amazon.com/dp/B07JRD69V6/ref=cm_sw_r_cp_api_glt_fabc_WTRZRMNRG20KSPHKRQSX?_encoding=UTF8&psc=1
-
-RJ45 black panda and comma power adapter
-- https://github.com/Circuit-Pro/openpilot/blob/main/C50DC3FD-B803-4B67-A435-AA857EF2396B.png
-
 **By using this software you are responsible for anything that occurs while OpenPilot is engaged or disengaged. Be ready to take over at any moment. Fork maintainers assumes no liability for your use of this software and any hardware.**
 
 ***Install***
@@ -148,6 +123,32 @@ https://github.com/crwusiz/openpilot
 https://www.amazon.com/dp/B07JCTZ3BF/ref=cm_sw_r_u_apa_glt_fabc_SNA9EVB27NT0DPRMEY3Q?psc=1
 
 Run `adb shell am start -a android.settings.SETTINGS` and go too `"SIM cards"` and under `Cellular network settings` choose either "SIM 1 settings" or "SIM 2 settings" (based on which slot you have your non comma sim installed in.) Then go to `Access Point Names` add and set APN name correctly for sim provider(for the one i'm using and linked above the APN username is `m2mglobal` leave everything else default or blank. (MCC 310, MNC 260)
+
+**MDPS/SMDPS** Refrence these guides to build one. 
+- https://github.com/Circuit-Pro/openpilot/blob/main/Hyundai_MDPS_Comma_Harness.pdf 
+- https://github.com/Circuit-Pro/openpilot/blob/main/Pinout%20For%20CommaPower%20to%20Micro64.pdf 
+- https://medium.com/@kyroapps/adding-support-for-lateral-control-below-51km-h-for-hyundai-vehicles-10be0b556371
+
+Kia Niro MDPS ECU - http://www.kniro.net/schematic_diagrams-1321.html
+
+MDPS Connectors
+
+Male
+- https://www.mouser.com/ProductDetail/aptiv/15420151/?qs=WTe5OP3w0Koiy%252bx6KqjpIQ%3D%3D&countrycode=CA&currencycode=CAD&bm-verify=AAQAAAAD_____xGvBoTAT_yusRfcDbPOvmmaN_N4VgvTUsLpnvbpGb1zClm2LRJZFYrTQaCWy30sxMrw5LMiUOXCn06a49I1B8zA96meyl7U7I8EteiPj05-qHB8w3slUdlaiAvam3Y96_Xsl81g3qPzp08LwevFanhLa8jvAmcmYyFsMkQVmB5o-bjjk2E3sWqFDi3jINO2kCMPiDZ2BYdawKzl7yPNrkc_dq8iwl-oyNoa242w_dFKI5z1ucS22Etf-_dT-L09e7XFLzVQ307lPqcZrR0mu1gqEY94MN4p9yj71EYVH8SrUJAFu9UOAa0l9ATl01niGRC6afmOr91rzh087B1Bj6RXGml62nkMWgBDkGsiWU7DRkPUjfVJZu00hioYwl-A758CMrxFB3GHEQm-V7oT8kdHI7i-9TH5oxRgrArVhcDlAGasgzhKrWwJ0CXP9okjrQbhlcFZeVPvfQW4RP3WJkHUJnUna-wRSzX2J4Fr7jJBRKDsu7oGqJNSIbsioIlbHsb5-B5Zoi_bLnA0
+
+Female 
+- https://www.mouser.com/ProductDetail/aptiv/15406142/?qs=xyz6lfZ1ktKtmezTNc3DLw%3D%3D&countrycode=CA&currencycode=CAD
+- https://www.mouser.com/ProductDetail/aptiv/15401440-l/?qs=NKHyz0HolODmWpNAvMSDSg%3D%3D&countrycode=CA&currencycode=CAD
+
+Black Panda
+- https://github.com/Circuit-Pro/openpilot/blob/main/648E3090-698D-4568-BCEE-E723442B3C00.jpeg
+
+RJ45 female connectors
+- https://www.amazon.com/dp/B07JRD69V6/ref=cm_sw_r_cp_api_glt_fabc_WTRZRMNRG20KSPHKRQSX?_encoding=UTF8&psc=1
+
+RJ45 black panda and comma power adapter
+- https://github.com/Circuit-Pro/openpilot/blob/main/C50DC3FD-B803-4B67-A435-AA857EF2396B.png
+
 
 It is open source and inherits MIT license. It is open source and inherits MIT license.  By installing this software you accept all responsibility for anything that might occur while you use it.  All contributors to this fork are not liable.  <b>Use at your own risk.</b>
 ------------------------------------------------------
