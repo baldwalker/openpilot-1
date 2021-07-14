@@ -1,4 +1,4 @@
-**OpenPilot 0.8.5**
+**OpenPilot 0.8.6**
 
 <a href="https://www.paypal.com/donate?business=NRFAJ6FYRLT2Y&no_recurring=0&item_name=Contribute+to+help+progress+JPR%27s+HKG+Fork&currency_code=USD" 
 target="_blank">
