@@ -223,6 +223,7 @@ Community Maintained Cars and Features
 | Make      | Model (US Market Reference)   | Supported Package | ACC              | No ACC accel below | No ALC below |
 | ----------| ------------------------------| ------------------| -----------------| -------------------| -------------|
 | Genesis   | G70 2018                      | All               | OpenPilot            | 0mph               | 0mph         |
+| Genesis   | G80 2017                      | All               | OpenPilot            | 0mph               | 35mph        |
 | Genesis   | G80 2018                      | All               | OpenPilot            | 0mph               | 0mph         |
 | Genesis   | G90 2018                      | All               | OpenPilot            | 0mph               | 0mph         |
 | Hyundai   | Elantra 2017-19, 2021         | SCC + LKAS        | Stock            | 19mph              | 34mph        |
