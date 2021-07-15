@@ -7,7 +7,7 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
      Help Progress this fork along!
  
-**Join the discussion here. https://discord.gg/zWSnqJ6rKD**
+**Join our Discord here. https://discord.gg/zWSnqJ6rKD**
 
 **This fork is community supported we appreciate all help! Too get involved join us on discord. https://discord.gg/zWSnqJ6rKD**
 
