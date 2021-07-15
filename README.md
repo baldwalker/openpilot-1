@@ -243,6 +243,8 @@ Community Maintained Cars and Features
 | Kia       | Sorento 2018-19               | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Kia       | Stinger 2018                  | SCC + LKAS        | OpenPilot            | 0mph               | 0mph         |
 | Kia       | Ceed 2019                     | SCC + LKAS        | Stock            | 0mph               | 0mph         |
+| Kia	| Niro PHEV 2019 |	SCC + LKAS	| Stock  |	10mph |	32mph |
+| Kia	| Optima 2017 |	SCC + LKAS  |	Stock  |	0mph	  | 32mph |
 
 Community Maintained Cars and Features are not verified by comma to meet our [safety model](SAFETY.md). Be extra cautious using them. They are only available after enabling the toggle in `Settings->Developer->Enable Community Features`.
 
