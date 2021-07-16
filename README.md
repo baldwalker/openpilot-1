@@ -40,6 +40,8 @@ https://api.retropilot.org/useradmin
 
 Comma 2 has **POOR** performance with logging and uploader enabled so it's disabled by default. You can change that in `Settings` under `Community`.
 
+Contact johnpr#5623 for help with an Ubuntu installation and setup.
+
 **Run** nTune after 30 - 50 miles of driving. It will autotune lateral control. Use this command `cd selfdrive && python ntune.py` or use the button in `Settings` under `Community`. (make sure your not driving!)
 
 Make sure to **shut off** auto start stop or you will get steering temporarily unavailable if the engine shuts off.
