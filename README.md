@@ -36,7 +36,8 @@ Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_08
 - make sure too run `rm /data/params/d/DongleId` to reset your dongle ID.
 
 ***RetroPilot***
-https://api.retropilot.org/useradmin
+
+This fork uses RetroPilot for logging and online services.  https://api.retropilot.org/useradmin
 
 Comma 2 has **POOR** performance with logging and uploader enabled so it's disabled by default. You can change that in `Settings` under `Community`.
      Contact johnpr#5623 for help with an Ubuntu installation and setup.
