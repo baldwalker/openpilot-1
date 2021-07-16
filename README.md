@@ -71,6 +71,7 @@ Screen recording from ui **saved** to. `/storage/emulated/0/videos`
 
 ***MAD mode toggle***
   - for no disengae on brake or gas.
+  - Engages `Lateral` with the `Cruise` button.
 
 ***Show Debug UI***
 
