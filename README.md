@@ -56,7 +56,7 @@ Screen recording from ui **saved** to. `/storage/emulated/0/videos`
 
 ***Cluster Speed***
 
-   - Uses the speed of the gauge cluster instead of actual wheel speed (if applicable) or GPS speed.
+   - Uses the speed of the gauge cluster instead GPS speed.
 
 ***HKG Long control toggle. (radar + vision)***
 
