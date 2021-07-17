@@ -70,10 +70,6 @@ Screen recording from ui **saved** to. `/storage/emulated/0/videos`
 ***LDWS toggle***
    - under `Community` in `Settings` for cars with LDWS but not SCC.
 
-***MAD mode toggle***
-  - for no disengae on brake or gas.
-  - Engages `Lateral` with the `Cruise` button.
-
 ***Show Debug UI***
 
    - I feel like you should understand what “debugging” and a “UI” are before you can use openpilot
