@@ -227,19 +227,19 @@ Community Maintained Cars and Features
 | Genesis   | G80 2017                      | All               | OpenPilot            | 0mph               | 35mph        |
 | Genesis   | G80 2018                      | All               | OpenPilot            | 0mph               | 0mph         |
 | Genesis   | G90 2018                      | All               | OpenPilot            | 0mph               | 0mph         |
-| Hyundai   | Elantra 2017-19, 2021         | SCC + LKAS        | Stock            | 19mph              | 34mph        |
+| Hyundai   | Elantra 2017-19, 2021         | SCC + LKAS        | Stock            | 19mph              | 0mph w MDPS Harness        |
 | Hyundai   | Genesis 2015-16               | SCC + LKAS        | OpenPilot            | 19mph              | 37mph        |
 | Hyundai   | Ioniq Electric 2019           | SCC + LKAS        | Stock            | 0mph               | 32mph        |
 | Hyundai   | Ioniq Electric 2020           | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Hyundai   | Kona 2020                     | SCC + LKAS        | Stock            | 0mph               | 0mph         |
-| Hyundai   | Kona EV 2019                  | SCC + LKAS        | OP w Radar Harness    | 0mph               | 0mph         |
+| Hyundai   | Kona EV 2019                  | SCC + LKAS        | OP w Radar Harness    | 0mph               | 0mph w MDPS Harness         |
 | Hyundai   | Santa Fe 2019-20              | All               | Stock            | 0mph               | 0mph         |
 | Hyundai   | Sonata 2018-2019              | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Hyundai   | Veloster 2019                 | SCC + LKAS        | Stock            | 5mph               | 0mph         |
 | Kia       | Forte 2018-2021               | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Kia       | Niro EV 2020                  | SCC + LKAS        | OP w Radar Harness    | 0mph          | 0mph         |
-| Kia	  | Niro PHEV 2019                |	SCC + LKAS    | Stock            |	        10mph      | 32mph        |
-| Kia       | Optima 2017                   | SCC + LKAS        | Stock            | 0mph               | 32mph        |
+| Kia	  | Niro PHEV 2019                |	SCC + LKAS    | Stock            |	        10mph      | 0mph w MDPS Harness        |
+| Kia       | Optima 2017                   | SCC + LKAS        | Stock            | 0mph               | 0mph w MDPS Harness        |
 | Kia       | Optima 2019                   | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Kia       | Seltos 2021                   | SCC + LKAS        | Stock            | 0mph               | 0mph         |
 | Kia       | Sorento 2018-19               | SCC + LKAS        | Stock            | 0mph               | 0mph         |
