@@ -53,6 +53,7 @@ Comma 2 has **POOR** performance with logging and uploader enabled so it's disab
      Contact johnpr#5623 for help with an Ubuntu installation and setup.
 
 ***nTune***
+- nTune Auto Tunes lateral steering.
 
 Run **nTune** after 30 - 50 miles of driving. It will autotune lateral control. Use this command `cd selfdrive && python ntune.py` or use the button in `Settings` under `Device`. (make sure your not driving!)
 
