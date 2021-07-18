@@ -31,6 +31,12 @@ Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/086_dev (
 
 Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_085
 
+***2021 - 2020 Sonata***
+
+run this command via ssh to fix D.A.W.(Driver Attention Warning) `cd /data/openpilot rm -r panda
+git clone https://github.com/xps-genesis/panda.git -b xps_panda_daw
+cd /data/openpilot/panda/board && make && reboot`
+
 ***If you installed from SSH***
 
 - make sure too run `rm /data/params/d/DongleId` to reset your dongle ID.
@@ -112,6 +118,8 @@ Then give it a spin.
 OpenPilot will not see totally stopped cars yet until E2E comes so do not trust it to see and stop for a COMPLETLY stopped car.
 
 If Collision Warning is beeping at you OpenPilot has calculated it can't stop quick enough due to safety limitations on unintentional braking. Please apply brakes to avoid collision.
+
+
 
 **This is based on xx979xx & Neokii's & crwusiz's fork and is tuned for Genesis G70, Kia Stinger, and works on others but not tested..**
 
