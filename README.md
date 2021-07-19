@@ -31,13 +31,7 @@ Put this url during setup for Dev https://smiskol.com/fork/Circuit-Pro/086_dev (
 
 Put this url during setup for stable https://smiskol.com/fork/Circuit-Pro/hkg_085
 
-***2021 - 2020 Sonata***
 
- run this command via ssh to temporarily fix D.A.W. (Driver Attention Warning) Resets on update for now. Final fix coming soon 
-
-`cd /data/openpilot rm -r panda
-git clone https://github.com/xps-genesis/panda.git -b xps_panda_daw
-cd /data/openpilot/panda/board && make && reboot`
  
 ***or***
 
